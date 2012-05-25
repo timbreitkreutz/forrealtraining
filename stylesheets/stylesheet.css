@@ -245,3 +245,8 @@ a {
 .cf {
   zoom:1;
 }
+
+/* Signup button */
+.signup {
+  text-align: center;
+}
